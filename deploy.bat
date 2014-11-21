@@ -1,0 +1,1 @@
+msbuild "solution file path" /p:DeployOnBuild=true /p:PublishProfile="publish.pubxml file path"
